@@ -1,0 +1,30 @@
+# S7K binary sonar files — too large, keep separately
+S7K/
+
+# MB-System ephemeral working directory (auto-recreated)
+MBSystem/
+
+# Julia runtime artifacts
+MBJulia/result/
+
+# R runtime artifacts
+MBR/result/
+
+# R session data
+.RData
+.Rhistory
+.Rproj.user/
+
+# Julia compiled cache
+MBJulia/Manifest.toml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
