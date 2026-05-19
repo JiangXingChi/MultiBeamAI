@@ -1,6 +1,9 @@
 # S7K binary sonar files — too large, keep separately
 S7K/
 
+# Processed output (regenerate via run.sh)
+Result/
+
 # MB-System ephemeral working directory (auto-recreated)
 MBSystem/
 
